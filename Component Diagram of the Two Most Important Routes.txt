@@ -1,0 +1,18 @@
+                           [ App ]
+                             |
+                  --------------------------
+                  |                        |
+              [ Header ]               [ Footer ]
+                  |                        |
+      --------------------------------------------
+      |                |                        |
+[ Home Route ]   [ Books Route ]      [ Other Routes ]
+      |                |                        |
+  [ Home Component ]  [ Books Component ]
+
+
+
+ Route List:
+/: Home
+/books: Books
+/return: Return
